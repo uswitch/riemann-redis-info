@@ -12,7 +12,7 @@ gemspec = Gem::Specification.new do |s|
   s.rubyforge_project = 'riemann-redis-info'
 
   s.name = 'riemann-redis-info'
-  s.version = '0.1.0'
+  s.version = '0.1.1'
   s.author = 'Christian Blunden'
   s.email = 'christian.blunden@uswitch.com'
   s.homepage = 'https://github.com/uswitch/riemann-redis-info'
